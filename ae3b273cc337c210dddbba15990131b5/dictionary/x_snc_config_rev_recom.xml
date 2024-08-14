@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="9cffaf70c377c210dddbba1599013178" extends="task" label="Recommendation" max_length="40" name="x_snc_config_rev_recom" type="collection"/>
+</database>
