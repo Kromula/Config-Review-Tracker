@@ -3,6 +3,8 @@ Repository for Config Review Tracker Scoped application in ServiceNow.
 
 This application provides for the import of ServiceNow provided Configuration Reviews, and to generate the items into Tasks. These Tasks can then be assigned for action, tracked and closed. 
 
+# Development and Bugs are tracked [here](https://github.com/users/Kromula/projects/1)
+
 # Features
 
 ## Actionable Tasks
