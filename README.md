@@ -13,3 +13,14 @@ This application provides for the import of ServiceNow provided Configuration Re
 
 ## To-DO Feature List
 Features being work on go here
+
+
+
+
+# Installation
+
+1. Create an account on Github.
+2. Create a Person Access Token for your Github account.
+3. Add Credentials in ServiceNow, using Basic Auth to access Github.
+4. Create a Fork of this Repository
+5. Using Studio in ServiceNow, import the application using Source Control.
