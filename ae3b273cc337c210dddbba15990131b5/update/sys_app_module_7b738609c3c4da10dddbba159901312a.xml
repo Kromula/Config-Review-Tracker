@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
     <sys_app_module action="INSERT_OR_UPDATE">
         <active>true</active>
-        <application display_value="System Import Sets">import_sets</application>
+        <application display_value="Configuration Review Tracker">1dfbeec9c388da10dddbba159901318a</application>
         <assessment/>
         <device_type/>
         <filter/>
@@ -18,14 +18,14 @@
         <query/>
         <report/>
         <require_confirmation>true</require_confirmation>
-        <roles/>
+        <roles>x_snc_config_rev.admin</roles>
         <sys_class_name>sys_app_module</sys_class_name>
         <sys_created_by>doconnor</sys_created_by>
         <sys_created_on>2024-08-14 12:47:17</sys_created_on>
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>7b738609c3c4da10dddbba159901312a</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>2</sys_mod_count>
         <sys_name>Config Review Import</sys_name>
         <sys_overrides/>
         <sys_package display_value="Config Review Tracker" source="x_snc_config_rev">ae3b273cc337c210dddbba15990131b5</sys_package>
@@ -33,7 +33,7 @@
         <sys_scope display_value="Config Review Tracker">ae3b273cc337c210dddbba15990131b5</sys_scope>
         <sys_update_name>sys_app_module_7b738609c3c4da10dddbba159901312a</sys_update_name>
         <sys_updated_by>doconnor</sys_updated_by>
-        <sys_updated_on>2024-08-14 12:47:17</sys_updated_on>
+        <sys_updated_on>2024-08-14 15:46:03</sys_updated_on>
         <timeline_page/>
         <title>Config Review Import</title>
         <uncancelable>false</uncancelable>
