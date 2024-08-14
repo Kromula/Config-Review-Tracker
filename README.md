@@ -19,4 +19,8 @@ View time trended graphs to track and measure improvements or regression on your
 2. Create a Person Access Token for your Github account.
 3. Add Credentials in ServiceNow, using Basic Auth to access Github.
 4. Create a Fork of this Repository
-5. Using Studio in ServiceNow, import the application using Source Control.
+5. Using Studio in ServiceNow, import the application using Source Control*
+
+*When entering the URL for your forked repository, make sure you copy URL as shown in the screenshot. Your URL should end with .git
+![image](https://github.com/user-attachments/assets/9cd0aebf-4565-490a-8dcc-1eb9a98cfbe5)
+
