@@ -13,13 +13,6 @@ Dashboard with a suite of reports to display current status of recommendations, 
 View time trended graphs to track and measure improvements or regression on your Instance health.
 
 
-
-## To-DO Feature List
-Features being work on go here
-
-
-
-
 # Installation
 
 1. Create an account on Github.
