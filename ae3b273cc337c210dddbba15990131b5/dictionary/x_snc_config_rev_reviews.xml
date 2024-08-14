@@ -3,6 +3,7 @@
         <element attributes="edge_encryption_enabled=true" label="Manageability" max_length="40" name="y_manageability" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="Config Completed On" max_length="40" name="u_config_completed" type="glide_date"/>
         <element attributes="edge_encryption_enabled=true" label="Consultant" max_length="40" name="u_consultant" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Overall Score" max_length="40" name="u_overall" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="Upgradeability" max_length="40" name="u_upgradeability" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="User Experience" max_length="40" name="u_user_experience" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="Security" max_length="40" name="u_security" type="string"/>

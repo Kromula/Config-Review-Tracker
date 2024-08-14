@@ -4,13 +4,13 @@
             <element>y_manageability</element>
             <position>0</position>
             <sys_created_by>doconnor</sys_created_by>
-            <sys_created_on>2024-08-14 13:22:16</sys_created_on>
-            <sys_id>d08b4ec5c308da10dddbba1599013139</sys_id>
+            <sys_created_on>2024-08-14 15:47:51</sys_created_on>
+            <sys_id>78dc2a4dc388da10dddbba15990131e2</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Config Review Scores" display_value="Config Review Scores" name="x_snc_config_rev_reviews" sys_domain="global" view="Default view">8c6b4ac5c308da10dddbba1599013195</sys_ui_section>
             <sys_updated_by>doconnor</sys_updated_by>
-            <sys_updated_on>2024-08-14 13:22:16</sys_updated_on>
+            <sys_updated_on>2024-08-14 15:47:51</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -18,55 +18,69 @@
             <element>u_upgradeability</element>
             <position>1</position>
             <sys_created_by>doconnor</sys_created_by>
-            <sys_created_on>2024-08-14 13:22:16</sys_created_on>
-            <sys_id>588b4ec5c308da10dddbba1599013139</sys_id>
+            <sys_created_on>2024-08-14 15:47:51</sys_created_on>
+            <sys_id>34dc2a4dc388da10dddbba15990131e3</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Config Review Scores" display_value="Config Review Scores" name="x_snc_config_rev_reviews" sys_domain="global" view="Default view">8c6b4ac5c308da10dddbba1599013195</sys_ui_section>
             <sys_updated_by>doconnor</sys_updated_by>
-            <sys_updated_on>2024-08-14 13:22:16</sys_updated_on>
+            <sys_updated_on>2024-08-14 15:47:51</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_overall</element>
+            <position>2</position>
+            <sys_created_by>doconnor</sys_created_by>
+            <sys_created_on>2024-08-14 15:47:51</sys_created_on>
+            <sys_id>b8dc2a4dc388da10dddbba15990131e3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Config Review Scores" display_value="Config Review Scores" name="x_snc_config_rev_reviews" sys_domain="global" view="Default view">8c6b4ac5c308da10dddbba1599013195</sys_ui_section>
+            <sys_updated_by>doconnor</sys_updated_by>
+            <sys_updated_on>2024-08-14 15:47:51</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>.split</element>
-            <position>2</position>
+            <position>3</position>
             <sys_created_by>doconnor</sys_created_by>
-            <sys_created_on>2024-08-14 13:22:16</sys_created_on>
-            <sys_id>dc8b4ec5c308da10dddbba1599013139</sys_id>
+            <sys_created_on>2024-08-14 15:47:51</sys_created_on>
+            <sys_id>30dc2a4dc388da10dddbba15990131e4</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Config Review Scores" display_value="Config Review Scores" name="x_snc_config_rev_reviews" sys_domain="global" view="Default view">8c6b4ac5c308da10dddbba1599013195</sys_ui_section>
             <sys_updated_by>doconnor</sys_updated_by>
-            <sys_updated_on>2024-08-14 13:22:16</sys_updated_on>
+            <sys_updated_on>2024-08-14 15:47:51</sys_updated_on>
             <sys_user/>
             <type>.split</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>u_user_experience</element>
-            <position>3</position>
+            <position>4</position>
             <sys_created_by>doconnor</sys_created_by>
-            <sys_created_on>2024-08-14 13:22:16</sys_created_on>
-            <sys_id>548b4ec5c308da10dddbba159901313a</sys_id>
+            <sys_created_on>2024-08-14 15:47:51</sys_created_on>
+            <sys_id>b4dc2a4dc388da10dddbba15990131e4</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Config Review Scores" display_value="Config Review Scores" name="x_snc_config_rev_reviews" sys_domain="global" view="Default view">8c6b4ac5c308da10dddbba1599013195</sys_ui_section>
             <sys_updated_by>doconnor</sys_updated_by>
-            <sys_updated_on>2024-08-14 13:22:16</sys_updated_on>
+            <sys_updated_on>2024-08-14 15:47:51</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>u_security</element>
-            <position>4</position>
+            <position>5</position>
             <sys_created_by>doconnor</sys_created_by>
-            <sys_created_on>2024-08-14 13:22:16</sys_created_on>
-            <sys_id>d88b4ec5c308da10dddbba159901313a</sys_id>
+            <sys_created_on>2024-08-14 15:47:51</sys_created_on>
+            <sys_id>3cdc2a4dc388da10dddbba15990131e4</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Config Review Scores" display_value="Config Review Scores" name="x_snc_config_rev_reviews" sys_domain="global" view="Default view">8c6b4ac5c308da10dddbba1599013195</sys_ui_section>
             <sys_updated_by>doconnor</sys_updated_by>
-            <sys_updated_on>2024-08-14 13:22:16</sys_updated_on>
+            <sys_updated_on>2024-08-14 15:47:51</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
