@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="486b4ac5c308da10dddbba1599013197" sys_domain="global" table="x_snc_config_rev_reviews" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>doconnor</sys_created_by>
+            <sys_created_on>2024-08-14 13:21:43</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>146b4ac5c308da10dddbba159901319b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_snc_config_rev_reviews" name="x_snc_config_rev_reviews" sys_domain="global" view="Default view">486b4ac5c308da10dddbba1599013197</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_config_rev_reviews" sys_domain="global" view="Default view">9356ce41c308da10dddbba15990131ae</sys_ui_section>
+            <sys_updated_by>doconnor</sys_updated_by>
+            <sys_updated_on>2024-08-14 13:21:43</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>doconnor</sys_created_by>
+            <sys_created_on>2024-08-14 13:21:43</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>dc6b4ac5c308da10dddbba159901319b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_snc_config_rev_reviews" name="x_snc_config_rev_reviews" sys_domain="global" view="Default view">486b4ac5c308da10dddbba1599013197</sys_ui_form>
+            <sys_ui_section caption="Config Review Scores" display_value="Config Review Scores" name="x_snc_config_rev_reviews" sys_domain="global" view="Default view">8c6b4ac5c308da10dddbba1599013195</sys_ui_section>
+            <sys_updated_by>doconnor</sys_updated_by>
+            <sys_updated_on>2024-08-14 13:21:43</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>2</position>
+            <sys_created_by>doconnor</sys_created_by>
+            <sys_created_on>2024-08-14 13:21:43</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>5c6b4ac5c308da10dddbba159901319f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_snc_config_rev_reviews" name="x_snc_config_rev_reviews" sys_domain="global" view="Default view">486b4ac5c308da10dddbba1599013197</sys_ui_form>
+            <sys_ui_section caption="Notes" display_value="Notes" name="x_snc_config_rev_reviews" sys_domain="global" view="Default view">886b4ac5c308da10dddbba1599013196</sys_ui_section>
+            <sys_updated_by>doconnor</sys_updated_by>
+            <sys_updated_on>2024-08-14 13:21:43</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_snc_config_rev_reviews</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>doconnor</sys_created_by>
+            <sys_created_on>2024-08-14 13:21:43</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>486b4ac5c308da10dddbba1599013197</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_snc_config_rev_reviews</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Config Review Tracker" source="x_snc_config_rev">ae3b273cc337c210dddbba15990131b5</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Config Review Tracker">ae3b273cc337c210dddbba15990131b5</sys_scope>
+            <sys_update_name>sys_ui_form_sections_486b4ac5c308da10dddbba1599013197</sys_update_name>
+            <sys_updated_by>doconnor</sys_updated_by>
+            <sys_updated_on>2024-08-14 13:21:43</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>

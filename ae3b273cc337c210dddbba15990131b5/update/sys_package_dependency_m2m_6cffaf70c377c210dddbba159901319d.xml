@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_package_dependency_m2m">
+    <sys_package_dependency_m2m action="INSERT_OR_UPDATE">
+        <dependency display_value="Task table schema" source="com.glide.task">cb459b29c3300210dddbba15990131dd</dependency>
+        <min_version>1.0.0</min_version>
+        <sys_created_by>doconnor</sys_created_by>
+        <sys_created_on>2024-08-01 15:46:54</sys_created_on>
+        <sys_id>6cffaf70c377c210dddbba159901319d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_package display_value="Config Review Tracker" source="x_snc_config_rev">ae3b273cc337c210dddbba15990131b5</sys_package>
+        <sys_updated_by>doconnor</sys_updated_by>
+        <sys_updated_on>2024-08-01 15:46:54</sys_updated_on>
+    </sys_package_dependency_m2m>
+</record_update>

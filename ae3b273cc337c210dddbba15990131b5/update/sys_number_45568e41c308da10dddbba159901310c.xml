@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_number">
+    <sys_number action="INSERT_OR_UPDATE">
+        <category display_value="" name="x_snc_config_rev_reviews">x_snc_config_rev_reviews</category>
+        <maximum_digits>7</maximum_digits>
+        <number>1000</number>
+        <prefix>CREVIEW</prefix>
+        <sys_class_name>sys_number</sys_class_name>
+        <sys_created_by>doconnor</sys_created_by>
+        <sys_created_on>2024-08-14 12:59:39</sys_created_on>
+        <sys_id>45568e41c308da10dddbba159901310c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>CREVIEW</sys_name>
+        <sys_package display_value="Config Review Tracker" source="x_snc_config_rev">ae3b273cc337c210dddbba15990131b5</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Config Review Tracker">ae3b273cc337c210dddbba15990131b5</sys_scope>
+        <sys_update_name>sys_number_45568e41c308da10dddbba159901310c</sys_update_name>
+        <sys_updated_by>doconnor</sys_updated_by>
+        <sys_updated_on>2024-08-14 12:59:39</sys_updated_on>
+    </sys_number>
+</record_update>

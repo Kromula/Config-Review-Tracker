@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element audit="true" db_object_id="9cffaf70c377c210dddbba1599013178" extends="task" label="Recommendation" max_length="40" name="x_snc_config_rev_recom" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Definition Number" max_length="40" name="u_definition_number" type="string"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Rating" max_length="40" name="u_rating" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Act" sequence="0" value="1"/>
+                <element inactive_on_update="false" label="Discuss" sequence="2" value="3"/>
+                <element inactive_on_update="false" label="Recommend" sequence="1" value="2"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="Source Link" max_length="1024" name="u_source_link" type="url"/>
+        <element attributes="edge_encryption_enabled=true" label="Recommendation" max_length="5000" name="u_recommendation" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Number" max_length="40" name="u_number" type="string"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Category" max_length="40" name="u_category" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Security" sequence="2" value="security"/>
+                <element inactive_on_update="false" label="Mangeability" sequence="0" value="mangeability"/>
+                <element inactive_on_update="false" label="Performance" sequence="0" value="Performance"/>
+                <element inactive_on_update="false" label="Upgradeability" sequence="1" value="upgradeability"/>
+                <element inactive_on_update="false" label="Manageability" sequence="0" value="Manageability"/>
+                <element inactive_on_update="false" label="User Experience" sequence="3" value="user experience"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="Source Table" max_length="40" name="u_source_table" type="string"/>
+        <element attributes="encode_utf8=false" label="Configuration Review" max_length="32" name="u_config_review" reference="x_snc_config_rev_reviews" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" label="Best Practice" max_length="1024" name="u_best_practice" type="url"/>
+        <element attributes="encode_utf8=false" label="Product" max_length="32" name="u_product" reference="x_snc_config_rev_product" type="reference"/>
+    </element>
+</database>

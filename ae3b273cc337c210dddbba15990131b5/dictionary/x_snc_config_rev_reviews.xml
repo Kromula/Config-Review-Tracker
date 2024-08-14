@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element audit="true" db_object_id="d436ca41c308da10dddbba159901317c" extends="task" label="Config Reviews" max_length="40" name="x_snc_config_rev_reviews" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Manageability" max_length="40" name="y_manageability" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Config Completed On" max_length="40" name="u_config_completed" type="glide_date"/>
+        <element attributes="edge_encryption_enabled=true" label="Consultant" max_length="40" name="u_consultant" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Upgradeability" max_length="40" name="u_upgradeability" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="User Experience" max_length="40" name="u_user_experience" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Security" max_length="40" name="u_security" type="string"/>
+    </element>
+</database>

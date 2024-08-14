@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application/>
+        <assessment/>
+        <device_type/>
+        <filter table="x_snc_config_rev_recom">active=true^assigned_toDYNAMIC90d1921e5f510100a9ad2572f2b477fe^EQ<item endquery="false" field="active" goto="false" newquery="false" operator="=" or="false" value="true"/>
+            <item endquery="false" field="assigned_to" goto="false" newquery="false" operator="DYNAMIC" or="false" value="90d1921e5f510100a9ad2572f2b477fe"/>
+            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </filter>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>LIST</link_type>
+        <map_page/>
+        <mobile_title>Configuration Review</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>x_snc_config_rev_recom</name>
+        <order>40</order>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <require_confirmation>true</require_confirmation>
+        <roles>x_snc_config_rev.admin,x_snc_config_rev.user</roles>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>doconnor</sys_created_by>
+        <sys_created_on>2024-08-14 12:55:59</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>3a650a01c308da10dddbba15990131cf</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Configuration Review Actions Assinged to Me</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Config Review Tracker" source="x_snc_config_rev">ae3b273cc337c210dddbba15990131b5</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Config Review Tracker">ae3b273cc337c210dddbba15990131b5</sys_scope>
+        <sys_update_name>sys_app_module_3a650a01c308da10dddbba15990131cf</sys_update_name>
+        <sys_updated_by>doconnor</sys_updated_by>
+        <sys_updated_on>2024-08-14 12:57:47</sys_updated_on>
+        <timeline_page/>
+        <title>Configuration Review Actions Assinged to Me</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+</record_update>
