@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="par_dashboard_widget">
+    <par_dashboard_widget action="INSERT_OR_UPDATE">
+        <canvas display_value="">d6f076c1c3c8da10dddbba159901316d</canvas>
+        <component display_value="Single score">d24d53f60350de7a652caf3188a46ed2</component>
+        <component_props>{"configVersion":"23.0.0-ci-SNAPSHOT","scoreSize":"md","headingPosition":"top","sparklineStyle":"area","scoreIcon":"","iconStyle":"background","showScoreDate":false,"useRelativeScoreTime":false,"showScoreUpdateTime":false,"showZero":true,"colorConfig":{"type":"default"},"newReporting":false,"additionalGroupByConfig":[],"dataSources":[{"isDatabaseView":false,"allowRealTime":true,"label":"Recommendation","sourceType":"table","tableOrViewName":"x_snc_config_rev_recom","filterQuery":"closed_atONThis quarter@javascript:gs.beginningOfThisQuarter()@javascript:gs.endOfThisQuarter()","preferredVisualizations":["d24d53f60350de7a652caf3188a46ed2"],"id":"dGFibGV4X3NuY19jb25maWdfcmV2X3JlY29tMTcyMzY1MjI1ODY4OA==","dataCategories":["trend","group","simple"]}],"showHeader":true,"showTotalAggregate":false,"showSubAggregate":false,"showFirstGroupAggregate":false,"showSecondGroupAggregate":false,"hideMatrixAggregate":false,"wrapTitle":true,"showHeaderSeparator":true,"headerTitle":"Actioned this quarter","headingLevel":2,"description":"Recommendations that have been actioned this quarter","showBorder":true,"bareBorder":false,"telemetry":null,"showDataPassthrough":false,"refreshRequest":"","showAdditionalGroupBySelector":false,"dataPassthrough":null,"metrics":[{"dataSource":"dGFibGV4X3NuY19jb25maWdfcmV2X3JlY29tMTcyMzY1MjI1ODY4OA==","id":"ZEdGaWJHVjRYM051WTE5amIyNW1hV2RmY21WMlgzSmxZMjl0TVRjeU16WTFNakkxT0RZNE9BPT0xNzIzNjUyMjU5NjE5","aggregateFunction":"COUNT","numberFormat":{"customFormat":false},"axisId":"primary"}],"groupBy":null,"sortByOrder":"desc","trendBy":null,"showChange":false,"showChangePercentage":false,"showTarget":false,"showForecast":false,"showForecastRange":false,"showTrend":false,"showConfidenceBand":false,"showGapPercentage":false,"showSparkline":false,"showMetricLabel":false,"showThreshold":false,"showComment":false,"followFilters":true,"showFilterIcon":true,"enableRealTimeUpdate":false,"enableDrilldown":true,"enableClickAndStay":false,"enableCustomEmptyState":false,"componentId":"8gsqf9mn","emptyStateIllustration":"no-data","emptyStateHeading":"No data available.","emptyStateContent":"There are no scores available for the selected criteria. Contact your admin for more info.","emptyStateAlignment":"vertical-centered","hideDevSettings":false,"filterConfigurations":"@state.parFilters","contextMenuActions":[],"showMaximumRange":false,"allowChangeDateRange":false,"showDateRangeByDefault":false,"applyDateRange":false,"numberOfPeriods":3,"showAbsolutePeriod":false,"scoreType":null,"showChangeFrom":false,"period":"M","dateFormat":"default","id":"","value":[{"isDatabaseView":false,"allowRealTime":true,"label":"Recommendation","sourceType":"table","tableOrViewName":"x_snc_config_rev_recom","filterQuery":"closed_atONThis quarter@javascript:gs.beginningOfThisQuarter()@javascript:gs.endOfThisQuarter()","preferredVisualizations":["d24d53f60350de7a652caf3188a46ed2"],"id":"dGFibGV4X3NuY19jb25maWdfcmV2X3JlY29tMTcyMzY1MjI1ODY4OA==","dataCategories":["trend","group","simple"]}],"noDebounce":"","propLabel":"","selectedElements":[]}</component_props>
+        <h>12</h>
+        <name/>
+        <stored_component/>
+        <sys_class_name>par_dashboard_widget</sys_class_name>
+        <sys_created_by>doconnor</sys_created_by>
+        <sys_created_on>2024-08-14 16:20:22</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>c14436c5c3c8da10dddbba15990131a6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_overrides/>
+        <sys_package display_value="Config Review Tracker" source="x_snc_config_rev">ae3b273cc337c210dddbba15990131b5</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Config Review Tracker">ae3b273cc337c210dddbba15990131b5</sys_scope>
+        <sys_update_name>par_dashboard_widget_c14436c5c3c8da10dddbba15990131a6</sys_update_name>
+        <sys_updated_by>doconnor</sys_updated_by>
+        <sys_updated_on>2024-08-14 16:20:22</sys_updated_on>
+        <visualization/>
+        <w>12</w>
+        <widget_props/>
+        <x>36</x>
+        <y>0</y>
+    </par_dashboard_widget>
+</record_update>

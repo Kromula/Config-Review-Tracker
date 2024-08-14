@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="par_dashboard_visibility">
+    <par_dashboard_visibility action="INSERT_OR_UPDATE">
+        <dashboard display_value="Config Review">92f0f2c1c3c8da10dddbba1599013110</dashboard>
+        <experience display_value="Platform Analytics Experience">08c73d60537101100834ddeeff7b1287</experience>
+        <sys_class_name>par_dashboard_visibility</sys_class_name>
+        <sys_created_by>doconnor</sys_created_by>
+        <sys_created_on>2024-08-14 16:05:58</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>1ef076c1c3c8da10dddbba159901316f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_overrides/>
+        <sys_package display_value="Config Review Tracker" source="x_snc_config_rev">ae3b273cc337c210dddbba15990131b5</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Config Review Tracker">ae3b273cc337c210dddbba15990131b5</sys_scope>
+        <sys_update_name>par_dashboard_visibility_1ef076c1c3c8da10dddbba159901316f</sys_update_name>
+        <sys_updated_by>doconnor</sys_updated_by>
+        <sys_updated_on>2024-08-14 16:05:58</sys_updated_on>
+    </par_dashboard_visibility>
+</record_update>
