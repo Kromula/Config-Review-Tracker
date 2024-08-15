@@ -10,7 +10,8 @@ This application provides for the import of ServiceNow provided Configuration Re
 ## Actionable Tasks
 ServiceNow configuration review recommendations can be tracked, assigned and actioned using Tasks. 
 
-![image](https://github.com/user-attachments/assets/1a62bcfd-9970-4d8a-b380-29d2ade686ba)
+![image](https://github.com/user-attachments/assets/e3da7bf8-6f9a-4b55-906d-677bd61b88ff)
+
 
 
 ## Dashboards and Reporting
