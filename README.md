@@ -17,6 +17,9 @@ ServiceNow configuration review recommendations can be tracked, assigned and act
 Dashboard with a suite of reports to display current status of recommendations, action items and configuration reviews. 
 View time trended graphs to track and measure improvements or regression on your Instance health.
 
+![image](https://github.com/user-attachments/assets/a0764564-e08b-4f18-afab-f2df2760bbec)
+
+
 
 # Installation
 
